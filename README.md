@@ -1,5 +1,5 @@
 
-<!-- ![Repo Banner](https://raw.githubusercontent.com/parsalakzian/LifeMusicVer/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) -->
+![Repo Banner](https://raw.githubusercontent.com/parsalakzian/LifeMusicVer/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png)
 
 # LifeMusic
 
@@ -13,6 +13,7 @@
      alt="Download from GitHub"
      height="90">](https://github.com/parsalakzian/LifeMusicVer/releases)
 
+<!--
 ## Translations
 - [Turkish :tr:](/README.TR.md)
 - [Spanish :es:](/README.ES.md)
@@ -22,7 +23,7 @@
 - [Japanese :jp:](/README.JA.md)
 - [Belarusian :belarus:](/README.BE.md)
 - [Indonesian :indonesia:](/README.ID.md)
-
+-->
 
 ## Features
 
@@ -62,7 +63,9 @@ Check it yourself :)
 
 ## Screenshots
 
-<!-- <img src="https://github.com/parsalakzian/LifeMusicVer/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true" width="32%"> <img src="https://github.com/parsalakzian/LifeMusicVer/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="32%"> <img src="https://github.com/parsalakzian/LifeMusicVer/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true" width="32%"> <img src="https://github.com/parsalakzian/LifeMusicVer/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true" width="32%"> <img src="https://github.com/parsalakzian/LifeMusicVer/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true" width="32%"> <img src="https://github.com/parsalakzian/LifeMusicVer/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true" width="32%"> -->
+<img src="https://github.com/parsalakzian/LifeMusicVer/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true" width="32%"> <img src="https://github.com/parsalakzian/LifeMusicVer/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="32%"> 
+#
+<img src="https://github.com/parsalakzian/LifeMusicVer/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true" width="32%"> <img src="https://github.com/parsalakzian/LifeMusicVer/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true" width="32%"> <img src="https://github.com/parsalakzian/LifeMusicVer/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true" width="32%"> <img src="https://github.com/parsalakzian/LifeMusicVer/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true" width="32%">
 
 ## License
 
