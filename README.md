@@ -3,6 +3,30 @@
 
 # LifeMusic
 
+## **FREE**
+. All languages music support
+. Persian support (beta)
+. Music lyrics
+. Support YouTube and yt music
+. Proxy for Iranian
+. Can change theme by favorite
+. Support local music
+. Live search
+. Search music video on YouTube
+. Create Playlist(save on phone) 
+. Favorite music(save on phone) 
+. All devices size support
+. Ready to play playlist
+
+## **PREMIUM**
+. Download music
+. 320 music Quality
+. Equalizer support
+. AutoPlay on start
+. Artist account(on future)
+. Remove Ads
+. Create Playlist(save on phone) 
+. No restrictions to add playlists
 
 ### Don't forget to :star: the repo
 
