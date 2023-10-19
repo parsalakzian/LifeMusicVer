@@ -38,7 +38,7 @@
      height="90">](https://github.com/parsalakzian/LifeMusicVer/releases)
 [<img src="get_github.png"
      alt="Download from GitHub"
-     height="90">](https://music.newlifes.site/play?id=life_d5fc1bb0-6a93-11ee-8712-a72d44adc431)
+     height="90">](https://music.newlifes.site/play?life_d5fc1bb0-6a93-11ee-8712-a72d44adc431)
 
 <!--
 ## Translations
