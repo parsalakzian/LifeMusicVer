@@ -36,6 +36,9 @@
 [<img src="get_github.png"
      alt="Download from GitHub"
      height="90">](https://github.com/parsalakzian/LifeMusicVer/releases)
+[<img src="get_github.png"
+     alt="Download from GitHub"
+     height="90">](https://music.newlifes.site)
 
 <!--
 ## Translations
